@@ -11,7 +11,7 @@ Features:
 - Settings panel
 - Dark theme with modern design
 
-Author: Advanced AI Systems
+Author: Pranish Sapkota
 Version: 1.0.0
 """
 
