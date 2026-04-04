@@ -1,6 +1,6 @@
 """
 JARVIS Configuration File
-Customize settings, websites, and command behaviors here.
+Customize settings, websites, and many command behaviors here.
 """
 
 import json
