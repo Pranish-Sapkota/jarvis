@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-JARVIS - Usage Examples and Advanced Patterns
+JARVIS - Usage Examples and Advanced  Patterns
 
 This file demonstrates various ways to use and extend JARVIS.
 """
