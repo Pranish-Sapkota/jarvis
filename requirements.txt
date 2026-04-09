@@ -1,0 +1,8 @@
+SpeechRecognition==3.10.0
+pyttsx3==2.90
+pywhatkit==5.4
+customtkinter==5.2.1
+nltk==3.8.1
+textblob==0.17.1
+python-dotenv==1.0.0
+ 

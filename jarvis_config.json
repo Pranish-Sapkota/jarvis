@@ -1,0 +1,25 @@
+{
+  "VOICE_ENABLED": true,
+  "SPEECH_RATE": 150,
+  "WAKE_WORD": "jarvis",
+  "WINDOW_WIDTH": 1200,
+  "WINDOW_HEIGHT": 800,
+  "CUSTOM_WEBSITES": {
+    "google": "https://www.google.com",
+    "youtube": "https://www.youtube.com",
+    "facebook": "https://www.facebook.com",
+    "twitter": "https://www.twitter.com",
+    "instagram": "https://www.instagram.com",
+    "linkedin": "https://www.linkedin.com",
+    "github": "https://www.github.com",
+    "reddit": "https://www.reddit.com",
+    "stackoverflow": "https://stackoverflow.com",
+    "wikipedia": "https://www.wikipedia.org",
+    "amazon": "https://www.amazon.com",
+    "netflix": "https://www.netflix.com",
+    "spotify": "https://www.spotify.com",
+    "twitch": "https://www.twitch.tv",
+    "discord": "https://discord.com",
+    "slack": "https://slack.com"
+  }
+}
