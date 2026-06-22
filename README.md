@@ -771,7 +771,7 @@ For issues, questions, or suggestions:
 
 ---
 
-**Made with ❤️ by Advanced AI Systems**
+**Made with ❤️ by Pranish Sapkota with Advanced AI Systems**
 
 *"With great AI comes great responsibility."* - Uncle Ben, probably
 # jarvis
