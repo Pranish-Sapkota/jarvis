@@ -727,19 +727,19 @@ This project is provided as-is for educational and personal use.
 
 ### Frequently Asked Questions
 
-**Q: Can JARVIS work offline?**
+**Q: Can JARVIS work offline?**<br>
 A: No, JARVIS requires internet for voice recognition and web operations.
 
-**Q: Can I change the voice gender?**
+**Q: Can I change the voice gender?**<br>
 A: Yes, modify the voice selection in `VoiceEngine.__init__()`.
 
-**Q: How do I add a new website?**
+**Q: How do I add a new website?**<br>
 A: Use `URLResolver.add_website("name", "url")` or edit `jarvis_config.py`.
 
-**Q: Can JARVIS control other applications?**
+**Q: Can JARVIS control other applications?**<br>
 A: Currently, JARVIS focuses on web-based automation. Local app control requires system-specific APIs.
 
-**Q: Is my microphone always listening?**
+**Q: Is my microphone always listening?**<br>
 A: No, JARVIS only listens when you press "START RECORDING" (GUI) or after you say the wake word (CLI).
 
 ---
